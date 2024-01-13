@@ -1,9 +1,10 @@
+import Render from "./components/render"
 
 export default function Home() {
   return (
     <>
     <div className="">
-      home
+      <Render></Render>
     </div>
     </>
  
